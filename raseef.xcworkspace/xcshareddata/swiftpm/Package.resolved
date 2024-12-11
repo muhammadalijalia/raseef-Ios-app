@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftui-mapview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sgade/swiftui-mapview.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "13c6312c31a7b3088bcd747ed75c298c231983c9"
+      }
+    },
+    {
+      "identity" : "swiftuix",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftUIX/SwiftUIX.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "738057f2248af8c4e62683fde3a9784a0857e277"
+      }
+    }
+  ],
+  "version" : 2
+}

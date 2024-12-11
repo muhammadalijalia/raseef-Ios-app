@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Get current location to present information</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Get current location to present information</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Get current location to present information</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Get current location to present information</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Helvetica-Bold.ttf</string>
+		<string>Helvetica-BoldOblique.ttf</string>
+		<string>helvetica-compressed-5871d14b6903a.otf</string>
+		<string>helvetica-light-587ebe5a59211.ttf</string>
+		<string>Helvetica-Oblique.ttf</string>
+		<string>helvetica-rounded-bold-5871d05ead8de.otf</string>
+		<string>Helvetica.ttf</string>
+		<string>OpenSans-Italic-VariableFont_wdth,wght.ttf</string>
+		<string>OpenSans-VariableFont_wdth,wght.ttf</string>
+	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
